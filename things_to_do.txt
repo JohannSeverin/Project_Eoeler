@@ -1,0 +1,6 @@
+Sympy. Skriv noget om assmuptions. Disse ligger under symbolet i et dictionairy ved .assumptions0
+
+
+Monte Carlo simuler snyd - God at starte med. Benyt random.choice
+Se på de sandsynligheder fra forskellige vinkler.
+
